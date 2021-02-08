@@ -15,6 +15,7 @@
 		B6D27D7525D0F05900A3F6C6 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D27D7425D0F05900A3F6C6 /* CardView.swift */; };
 		B6D27D7825D0F1E100A3F6C6 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D27D7725D0F1E100A3F6C6 /* Color+Codable.swift */; };
 		B6D27D7B25D1028D00A3F6C6 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D27D7A25D1028D00A3F6C6 /* ScrumsView.swift */; };
+		B6D27D8225D10C8C00A3F6C6 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D27D8125D10C8C00A3F6C6 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B6D27D7425D0F05900A3F6C6 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		B6D27D7725D0F1E100A3F6C6 /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		B6D27D7A25D1028D00A3F6C6 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		B6D27D8125D10C8C00A3F6C6 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +65,6 @@
 				B6D27D6E25D0EC6E00A3F6C6 /* Models */,
 				B6D27D7325D0F04200A3F6C6 /* Views */,
 				B6D27D5D25D0C32F00A3F6C6 /* ScrumdingerApp.swift */,
-				B6D27D5F25D0C32F00A3F6C6 /* MeetingView.swift */,
 				B6D27D6125D0C33000A3F6C6 /* Assets.xcassets */,
 				B6D27D6625D0C33000A3F6C6 /* Info.plist */,
 				B6D27D6325D0C33000A3F6C6 /* Preview Content */,
@@ -93,6 +94,8 @@
 			children = (
 				B6D27D7425D0F05900A3F6C6 /* CardView.swift */,
 				B6D27D7A25D1028D00A3F6C6 /* ScrumsView.swift */,
+				B6D27D5F25D0C32F00A3F6C6 /* MeetingView.swift */,
+				B6D27D8125D10C8C00A3F6C6 /* DetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				B6D27D6025D0C32F00A3F6C6 /* MeetingView.swift in Sources */,
 				B6D27D7B25D1028D00A3F6C6 /* ScrumsView.swift in Sources */,
 				B6D27D7025D0EC7800A3F6C6 /* DailyScrum.swift in Sources */,
+				B6D27D8225D10C8C00A3F6C6 /* DetailView.swift in Sources */,
 				B6D27D7525D0F05900A3F6C6 /* CardView.swift in Sources */,
 				B6D27D7825D0F1E100A3F6C6 /* Color+Codable.swift in Sources */,
 				B6D27D5E25D0C32F00A3F6C6 /* ScrumdingerApp.swift in Sources */,
